@@ -1,0 +1,24 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h5 {
+    font-family:monospace;
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+#details h3 {
+    font-family: fantasy;
+}
+#details h4 {
+    font-family: fantasy;
+}
+#details img {
+    border-radius: 25px;
+}
+.container_h2 {
+    font-family:inherit;
+}
